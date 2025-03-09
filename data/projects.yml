@@ -1,0 +1,16 @@
+name: Projects
+source:
+  - icon: fa fa-github
+    name: FindMyRyokan
+    description: Full stack developer for this recommendation website on traditional Japanese Inns 
+    url: https://findmyryokan.com/
+
+  - icon: fa fa-globe
+    name: Bing Maps
+    description: Performance engineer for the server side and client side applications
+    url: https://www.bing.com/maps
+
+  - icon: fa fa-globe
+    name: Microsoft Live ID
+    description: Performance engineer for this large scale commercial service 
+    url: https://account.microsoft.com/account
