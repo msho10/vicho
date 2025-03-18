@@ -1,0 +1,37 @@
+name: Certificates
+source:
+  - logo: /img/havard.jpg
+    logo_alt: Havard
+    name: Applications of TinyML by Havard University
+    description: Real-word industry applications of TinyML (Tiny Machine Learning) such as keyword spotting, visual wake words, anomaly detection, dataset engineering, and responsible artificial intelligence.
+    url: https://courses.edx.org/certificates/018d73afd9164de79caa0c9ae936b6df
+  
+  - logo: /img/havard.jpg
+    logo_alt: Havard
+    name: MLOps for Scaling TinyML by Havard University
+    description: Machine Learning Operations (MLOps) through the lens of TinyML (Tiny Machine Learning).
+    url: https://courses.edx.org/certificates/b39c314d88eb493a9258efb10cc94d50
+
+  - logo: /img/deeplearning.png
+    logo_alt: DeepLearning.AI
+    name: GANs Specialization by DeepLearning.AI
+    description: Image generation with GANs (Generative Adversarial Networks), from foundational concepts to advanced techniques. Construct and design generative adversarial model. Analyze how generative models are being applied in various commercial and exploratory applications.
+    url:  https://www.coursera.org/account/accomplishments/specialization/certificate/BSW87KZUEGDC
+
+  - logo: /img/deeplearning.png
+    logo_alt: DeepLearning.AI 
+    name: Machine Learning Specialization by DeepLearning.AI and Stanford University
+    description: Machine learning concepts, including supervised learning (linear regression, logistic regression, neural networks, decision trees), unsupervised learning(clustering, anomaly detection), recommender systems, and reinforcement learning. Best practices for building machine learning models. 
+    url:  https://www.coursera.org/account/accomplishments/specialization/certificate/QIVCHKFY2O1O
+
+  - logo: /img/deeplearning.png
+    logo_alt: DeepLearning.AI
+    name: TensorFlow Developer Specialization by DeepLearning.AI
+    description: Build and train neural networks using TensorFlow, improve network performance using convolutions to identify real-world images, teach machines to understand, analyze, and respond to human speech with natural language processing systems. 
+    url:  https://www.coursera.org/account/accomplishments/specialization/certificate/QIVCHKFY2O1O
+
+  - logo: /img/deeplearning.png
+    logo_alt: DeepLearning.AI
+    name: TensorFlow Advanced Techniques Specialization by DeepLearning.AI
+    description: Build complex, custom models using TensorFlow functional API. Optimize training in different environments with multiple processors and chip types. Advanced computer vision scenarios such as object detection, image segmentation, and interpreting convolutions. Generative deep learning including Style Transfer to Auto Encoding, VAEs, and GANs.
+    url:  https://www.coursera.org/account/accomplishments/specialization/certificate/40O9U53IR76J
