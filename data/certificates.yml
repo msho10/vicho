@@ -2,15 +2,15 @@ name: Certificates
 source:
   - logo: /img/havard.jpg
     logo_alt: Havard
-    name: Applications of TinyML by Havard University
-    description: Real-word industry applications of TinyML (Tiny Machine Learning) such as keyword spotting, visual wake words, anomaly detection, dataset engineering, and responsible artificial intelligence.
-    url: https://courses.edx.org/certificates/018d73afd9164de79caa0c9ae936b6df
+    name: Tiny Machine Learning (TinyML) by Havard University
+    description: Real-word industry applications and deployment of TinyML (Tiny Machine Learning) such as keyword spotting, visual wake words, anomaly detection, dataset engineering, and responsible artificial intelligence.
+    url: https://credentials.edx.org/credentials/bec2c3a369484d3db1396b9445abd7f8/
   
   - logo: /img/havard.jpg
     logo_alt: Havard
-    name: MLOps for Scaling TinyML by Havard University
+    name: Applied Tiny Machine Learning (TinyML) for Scale by Havard University
     description: Machine Learning Operations (MLOps) through the lens of TinyML (Tiny Machine Learning).
-    url: https://courses.edx.org/certificates/b39c314d88eb493a9258efb10cc94d50
+    url: https://credentials.edx.org/credentials/2fc23be549694ce7919e4f770a43dd87/
 
   - logo: /img/deeplearning.png
     logo_alt: DeepLearning.AI
@@ -22,7 +22,7 @@ source:
     logo_alt: DeepLearning.AI 
     name: Machine Learning Specialization by DeepLearning.AI and Stanford University
     description: Machine learning concepts, including supervised learning (linear regression, logistic regression, neural networks, decision trees), unsupervised learning(clustering, anomaly detection), recommender systems, and reinforcement learning. Best practices for building machine learning models. 
-    url:  https://www.coursera.org/account/accomplishments/specialization/certificate/QIVCHKFY2O1O
+    url:  https://www.coursera.org/account/accomplishments/specialization/certificate/7DUXEWD2BCTL
 
   - logo: /img/deeplearning.png
     logo_alt: DeepLearning.AI

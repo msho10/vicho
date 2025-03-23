@@ -1,7 +1,7 @@
 ---
 ---
 
-I'm **Victoria Ho**, a Software Engineer.
+I'm **Victoria Ho**, a Software Engineer specialized in performance.
 
 I love all things in machine learning and the human mind.
 
@@ -12,5 +12,5 @@ For more check out my [resume].
 
 
 [projects]: /projects
-[resume]: https:///
+[resume]: https://vicho-resume.onrender.com/
 [email]: mailto:vicho@live.com
