@@ -7,10 +7,10 @@ source:
 
   - icon: fa fa-globe
     name: Bing Maps
-    description: performance, stress evaluation, and capacity planning for this large scale web application. Own design and implementation of test strategies and test frameworks for server components, as well as browsers and mobile clients.
+    description: performance evaluation and capacity planning for this commercial mapping service. Own design and implementation of test strategies and test frameworks for different server components, as well as browsers and mobile clients.
     url: https://www.bing.com/maps
 
   - icon: fa fa-globe
     name: Microsoft Accounts
-    description: performance, stress evaluation, and capacity planning for this large scale web application. Own design and implementation of test strategies and test frameworks for web applications and APIs.
+    description: performance and stress testing for this large scale identity service. Own test automation and reporting for web front end and APIs.
     url: https://account.microsoft.com/account
