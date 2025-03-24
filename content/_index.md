@@ -1,7 +1,7 @@
 ---
 ---
 
-I'm **Victoria Ho**, a Software Engineer specialized in performance.
+I'm **Victoria Ho**, a Performance Engineer for large scale web application.
 
 I love all things in machine learning and the human mind.
 
