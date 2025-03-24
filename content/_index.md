@@ -12,5 +12,5 @@ For more check out my [resume].
 
 
 [projects]: /projects
-[resume]: https://vicho-resume.onrender.com/
-[email]: mailto:vicho@live.com
+[resume]: https://resume.vicho.me/
+[email]: mailto:hi@vicho.me
