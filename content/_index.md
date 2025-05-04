@@ -1,13 +1,15 @@
 ---
 ---
 
-I'm **Victoria Ho**, a Performance Engineer for large scale web application.
+I'm **Victoria Ho**
 
-I love all things in machine learning and the human mind.
+Performance Engineer for large scale applications and embedded systems
 
-Have a look at some of my working [projects].
+Love all things in machine learning and the human mind
 
-For more check out my [resume].
+Have a look at some of my working [projects]
+
+For more check out my [resume]
 
 
 

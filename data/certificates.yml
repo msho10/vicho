@@ -14,15 +14,33 @@ source:
 
   - logo: /img/deeplearning.png
     logo_alt: DeepLearning.AI
+    name: Convolutional Neural Networks by DeepLearning.AI
+    description: Building convolutional neural networks, including recent variations such as residual networks; Apply convolutional networks to visual detection and recognition tasks; Use neural style transfer to generate art and apply these algorithms to a variety of image and other 2D or 3D data.
+    url:  https://www.coursera.org/account/accomplishments/verify/C1BFR3PCPCUI
+
+  - logo: /img/deeplearning.png
+    logo_alt: DeepLearning.AI
     name: GANs Specialization by DeepLearning.AI
     description: Image generation with GANs (Generative Adversarial Networks), from foundational concepts to advanced techniques. Construct and design generative adversarial model. Analyze how generative models are being applied in various commercial and exploratory applications.
     url:  https://www.coursera.org/account/accomplishments/specialization/certificate/BSW87KZUEGDC
+
+  - logo: /img/deeplearning.png
+    logo_alt: DeepLearning.AI
+    name: Hyperparameter Tuning, Regularization and Optimization
+    description: Best practices in training and developing test sets and analyze bias/variance for building deep learning applications; Use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; Implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence;
+    url:  https://www.coursera.org/account/accomplishments/verify/OLRO37JY6A8H
 
   - logo: /img/deeplearning.png
     logo_alt: DeepLearning.AI 
     name: Machine Learning Specialization by DeepLearning.AI and Stanford University
     description: Machine learning concepts, including supervised learning (linear regression, logistic regression, neural networks, decision trees), unsupervised learning(clustering, anomaly detection), recommender systems, and reinforcement learning. Best practices for building machine learning models. 
     url:  https://www.coursera.org/account/accomplishments/specialization/certificate/7DUXEWD2BCTL
+
+  - logo: /img/deeplearning.png
+    logo_alt: DeepLearning.AI 
+    name: Neural Networks and Deep Learning
+    description: Foundational concept of neural networks and deep learning; Build, train, and apply fully connected deep neural networks; Implement efficient (vectorized) neural networks; Identify key parameters in a neural network’s architecture; Apply deep learning to applications.
+    url:  https://www.coursera.org/account/accomplishments/verify/8FUYP95FYCIN
 
   - logo: /img/deeplearning.png
     logo_alt: DeepLearning.AI
@@ -33,5 +51,5 @@ source:
   - logo: /img/deeplearning.png
     logo_alt: DeepLearning.AI
     name: TensorFlow Advanced Techniques Specialization by DeepLearning.AI
-    description: Build complex, custom models using TensorFlow functional API. Optimize training in different environments with multiple processors and chip types. Advanced computer vision scenarios such as object detection, image segmentation, and interpreting convolutions. Generative deep learning including Style Transfer to Auto Encoding, VAEs, and GANs.
+    description: Build complex, custom models using TensorFlow functional API. Optimize training in different environments with multiple processors and chip types, as well as distributed training. Advanced computer vision scenarios such as object detection, image segmentation, and interpreting convolutions. Generative deep learning including Style Transfer to Auto Encoding, VAEs, and GANs.
     url:  https://www.coursera.org/account/accomplishments/specialization/certificate/40O9U53IR76J
