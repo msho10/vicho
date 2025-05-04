@@ -26,7 +26,7 @@ source:
 
   - logo: /img/deeplearning.png
     logo_alt: DeepLearning.AI
-    name: Hyperparameter Tuning, Regularization and Optimization
+    name: Hyperparameter Tuning, Regularization and Optimization by DeepLearning.AI
     description: Best practices in training and developing test sets and analyze bias/variance for building deep learning applications; Use standard neural network techniques such as initialization, L2 and dropout regularization, hyperparameter tuning, batch normalization, and gradient checking; Implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence;
     url:  https://www.coursera.org/account/accomplishments/verify/OLRO37JY6A8H
 
@@ -38,7 +38,7 @@ source:
 
   - logo: /img/deeplearning.png
     logo_alt: DeepLearning.AI 
-    name: Neural Networks and Deep Learning
+    name: Neural Networks and Deep Learning by DeepLearning.AI
     description: Foundational concept of neural networks and deep learning; Build, train, and apply fully connected deep neural networks; Implement efficient (vectorized) neural networks; Identify key parameters in a neural network’s architecture; Apply deep learning to applications.
     url:  https://www.coursera.org/account/accomplishments/verify/8FUYP95FYCIN
 
