@@ -3,7 +3,7 @@
 
 I'm **Victoria Ho**
 
-Performance Engineer for large scale applications and embedded systems
+Performance Engineer for large scale applications
 
 Love all things in machine learning and the human mind
 
